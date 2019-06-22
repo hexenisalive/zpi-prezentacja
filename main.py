@@ -7,3 +7,4 @@ print("linijka dyskusyjna")
 
 
 # Test
+#Hej 2
